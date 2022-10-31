@@ -1,0 +1,22 @@
+{
+    "hsa": {"dir":"/Business/psn_company/t01/public/Database/SingleCell_Reference/refdata-gex-GRCh38-2020-A"},
+    "mmu":{"dir":"/Business/psn_company/t01/public/Database/SingleCell_Reference/refdata-gex-mm10-2020-A"},
+    "Oryzias_latipes":{"dir":"/Business/psn_company/t01/public/Database/SingleCell_Reference/Oryzias_latipes.ASM223467v1.104/","go_desc":"/Business/psn_company/sc02/1.source/KEGG.db/Oryzias_latipe/Oryzias_latipes.go.txt","kegg_desc":"/Business/psn_company/sc02/1.source/KEGG.db/Oryzias_latipe/Oryzias_latipes.kegg.txt"},
+    "rattus_norvegicus":{"dir":"/Business/psn_company/t01/public/Database/SingleCell_Reference/rattus_norvegicus_ensembl_104/rattus_norvegicus_ensembl_104/"},
+    "zm_b73":{"dir":"/Business/psn_company/sc02/1.source/space/zm-b73/ZM_2","go_desc":"/Business/psn_company/sc02/1.source/space/zm-b73/zmays.go.txt","kegg_desc":"/Business/psn_company/sc02/1.source/space/zm-b73/zmays.kegg.txt"},
+    "dre":{"dir":"/Business/psn_company/sc02/1.source/space/Danio_rerio"},
+    "gh":{"dir":"","go_desc":"/Business/psn_company/sc02/1.source/zm-b73_ref/db/TM-1.go.txt","kegg_desc":"/Business/psn_company/sc02/1.source/zm-b73_ref/db/TM-1.kegg.txt"},
+    "qk":{"dir":"/Business/psn_company/sc01/work/S202110008/SPL202111892/Ref/qiukui_scRNA_Ref/","go_desc":"/Business/psn_company/sc02/1.source/space/qiukui_db/qiukui.go.anno.reform1.txt","kegg_desc":"/Business/psn_company/sc02/1.source/space/qiukui_db/qiukui.kegg.anno.reform1.txt"},
+    "cart":{"dir":"/Business/psn_company/sc01/Workbase_Wangcanbiao/CART/human-cart/refdata-gex-GRCh38-2020-A-cart/hg-GRCh38-2020-A-cart"},
+    "mfa":{"dir":"/Business/psn_company/sc02/1.source/space/mfa/MFA"},
+    "psp":{"dir":"/Business/psn_company/sc02/1.source/space/Polyodon_spathula/PSP","go_desc":"/Business/psn_company/sc02/1.source/space/Polyodon_spathula/psp.go.anno.txt","kegg_desc":"/Business/psn_company/sc02/1.source/space/Polyodon_spathula/psp.kegg.anno.txt"},
+    "Sus_scrofa_pig_pedv":{"dir":"/Business/psn_company/sc02/1.source/space/Sus_scrofa_pig_pedv/PEDV","go_desc":"/Business/psn_company/sc02/1.source/space/Sus_scrofa_pig_pedv/anno/Sus_scrofa_pig.go.anno.txt","kegg_desc":"/Business/psn_company/sc02/1.source/space/Sus_scrofa_pig_pedv/anno/Sus_scrofa_pig.kegg.anno.txt"},
+    "ttf_new":{"dir":"/Business/psn_company/sc02/1.source/space/Megalobrama_amblycephala_TTF_new/ref","go_desc":"/Business/psn_company/sc02/1.source/space/Megalobrama_amblycephala_TTF_new/anno/Megalobrama_amblycephala_TTF.go.anno.txt","kegg_desc":"/Business/psn_company/sc02/1.source/space/Megalobrama_amblycephala_TTF_new/anno/Megalobrama_amblycephala_TTF.kegg.anno.txt"},
+   
+ "mf":{"dir":"/Business/psn_company/sc01/Workbase_Wangcanbiao/reference/Microtus.fortis/GCA_genome","go_desc":"/Business/psn_company/sc01/Workbase_Wangcanbiao/reference/Microtus.fortis/out.emapper.go.txt","kegg_desc":"/Business/psn_company/sc01/Workbase_Wangcanbiao/reference/Microtus.fortis/out.emapper.kegg.txt"},
+"yangshu":{"dir":"/Business/psn_company/sc01/Workbase_Wangcanbiao/reference/yangshu/org.index"},
+"mf_new":{"dir":"/Business/psn_company/sc01/Workbase_Wangcanbiao/reference/MF_new/MF","go_desc":"/Business/psn_company/sc01/Workbase_Wangcanbiao/reference/MF_new/out.emapper.go2.txt","kegg_desc":"/Business/psn_company/sc01/Workbase_Wangcanbiao/reference/MF_new/out.emapper.kegg2.txt"},
+"Dr_gfp":{"dir":"/Business/psn_company/sc01/Workbase_Wangcanbiao/reference/dr/Dr_gfp2"},
+"mmu_EGFP":{"dir":"/Business/psn_company/sc01/Workbase_Wangcanbiao/reference/mmu_zhao/mmu_EGFP"}
+}
+

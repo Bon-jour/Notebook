@@ -1,0 +1,8 @@
+项目编号	
+开题单号	
+项目类型	10x 单细胞TCR测序分析
+委托单位	
+样本数目	2
+测序平台	Illumina NovaSeq
+完成日期	2021年10月18日
+技术支持	(sc_support@personalbio.cn)

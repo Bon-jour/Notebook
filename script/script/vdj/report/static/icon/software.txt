@@ -1,0 +1,4 @@
+软件	版本	功能
+Cellranger		6.0	序列的比对及定量
+immunarch	0.5.5	VDJ特征分析
+TCR inhouse分析脚本		其他	特征统计		

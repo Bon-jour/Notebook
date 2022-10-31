@@ -1,0 +1,8 @@
+序号	分析项目	类型	分析	备注
+1	下机数据统计	A	√
+2	数据质控	A	√	
+3	免疫组库比对及注释	A	√	
+4	clonotype分型	A	√	
+5	多维度特征分析	A	√	
+6	Tracking of clonotypes	B	√		
+7	CDR3序列注释	B	√	
